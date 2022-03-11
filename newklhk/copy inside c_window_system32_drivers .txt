@@ -1,0 +1,1 @@
+copy klhk.sys inside C:\Windows\System32\Drivers\
