@@ -4,4 +4,4 @@ Started from https://github.com/iPower/KasperskyHook i updated sig and kaspersky
 HOW TO USE
 
 copy newklhk\klhk.sys inside C:\Windows\System32\Drivers.
-for load the driver sign it with sign.bat and after start KasperskyHookLoader.exe.
+for load the driver sign it with sign.bat.
